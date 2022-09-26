@@ -9,6 +9,8 @@ https://www.frontiersin.org/articles/10.3389/fcomp.2020.00014/full
 
 This code implements spectrogram extraction and training of the neural network.  
 
+![alt text](https://github.com/tomastefanadrian/Emotion-Recognition-from-Speech/blob/main/trainingProgress.png)
+
 Requirements:
 - Matlab R2022a
 - VoiceBox
